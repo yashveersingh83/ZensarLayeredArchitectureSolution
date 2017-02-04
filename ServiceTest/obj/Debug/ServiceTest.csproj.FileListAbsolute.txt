@@ -1,0 +1,12 @@
+E:\Zensar\ZensarLayeredArchitectureSolution\ServiceTest\bin\Debug\ServiceTest.dll.config
+E:\Zensar\ZensarLayeredArchitectureSolution\ServiceTest\bin\Debug\ServiceTest.dll
+E:\Zensar\ZensarLayeredArchitectureSolution\ServiceTest\bin\Debug\ServiceTest.pdb
+E:\Zensar\ZensarLayeredArchitectureSolution\ServiceTest\obj\Debug\ServiceTest.dll
+E:\Zensar\ZensarLayeredArchitectureSolution\ServiceTest\obj\Debug\ServiceTest.pdb
+E:\Zensar\ZensarLayeredArchitectureSolution\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+D:\yashlearning\ZensarLayeredArchitectureSolution\ServiceTest\bin\Debug\ServiceTest.dll.config
+D:\yashlearning\ZensarLayeredArchitectureSolution\ServiceTest\bin\Debug\ServiceTest.dll
+D:\yashlearning\ZensarLayeredArchitectureSolution\ServiceTest\bin\Debug\ServiceTest.pdb
+D:\yashlearning\ZensarLayeredArchitectureSolution\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
+D:\yashlearning\ZensarLayeredArchitectureSolution\ServiceTest\obj\Debug\ServiceTest.dll
+D:\yashlearning\ZensarLayeredArchitectureSolution\ServiceTest\obj\Debug\ServiceTest.pdb

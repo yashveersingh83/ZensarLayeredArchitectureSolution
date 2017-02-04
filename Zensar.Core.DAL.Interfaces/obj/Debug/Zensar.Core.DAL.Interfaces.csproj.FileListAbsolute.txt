@@ -1,0 +1,10 @@
+E:\Zensar\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\bin\Debug\Zensar.Core.DAL.Interfaces.dll
+E:\Zensar\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\bin\Debug\Zensar.Core.DAL.Interfaces.pdb
+E:\Zensar\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\obj\Debug\Zensar.Core.DAL.Interfaces.dll
+E:\Zensar\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\obj\Debug\Zensar.Core.DAL.Interfaces.pdb
+E:\Zensar\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\obj\Debug\Zensar.Core.DAL.Interfaces.csprojResolveAssemblyReference.cache
+D:\yashlearning\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\bin\Debug\Zensar.Core.DAL.Interfaces.dll
+D:\yashlearning\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\bin\Debug\Zensar.Core.DAL.Interfaces.pdb
+D:\yashlearning\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\obj\Debug\Zensar.Core.DAL.Interfaces.csprojResolveAssemblyReference.cache
+D:\yashlearning\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\obj\Debug\Zensar.Core.DAL.Interfaces.dll
+D:\yashlearning\ZensarLayeredArchitectureSolution\Zensar.Core.DAL.Interfaces\obj\Debug\Zensar.Core.DAL.Interfaces.pdb

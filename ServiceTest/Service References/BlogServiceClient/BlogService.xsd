@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Zensar.Core.DBEntities.Filters" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Zensar.Core.DBEntities.Filters" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfFilterCriteria">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="FilterCriteria" nillable="true" type="tns:FilterCriteria" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfFilterCriteria" nillable="true" type="tns:ArrayOfFilterCriteria" />
+  <xs:complexType name="FilterCriteria">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FilterType" type="tns:FilterType" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Operation" type="tns:BitWiseOperation" />
+      <xs:element minOccurs="0" name="Operator" type="tns:Operator" />
+      <xs:element minOccurs="0" name="Value" nillable="true" type="xs:anyType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FilterCriteria" nillable="true" type="tns:FilterCriteria" />
+  <xs:simpleType name="FilterType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Default" />
+      <xs:enumeration value="ImportFilter" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="FilterType" nillable="true" type="tns:FilterType" />
+  <xs:simpleType name="BitWiseOperation">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Default" />
+      <xs:enumeration value="Or" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="BitWiseOperation" nillable="true" type="tns:BitWiseOperation" />
+  <xs:simpleType name="Operator">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="EqualTo" />
+      <xs:enumeration value="NotEqualTo" />
+      <xs:enumeration value="Contains" />
+      <xs:enumeration value="NotContains" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="Operator" nillable="true" type="tns:Operator" />
+</xs:schema>
